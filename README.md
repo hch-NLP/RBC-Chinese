@@ -12,7 +12,8 @@
 感谢开发者为开源社区做出的贡献
 
 ## 项目结构
-```-|external-lib
+```
+-|external-lib
 -|data
 -|work
 -README.MD
