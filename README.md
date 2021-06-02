@@ -1,10 +1,18 @@
-# AI-Studio-项目标题
+# AI-Studio-飞桨常规赛：中文场景文字识别 - 5月第1名方案
 
 ## 项目描述
-简要描述项目
+本项目是参加飞桨常规赛：中文场景文字识别的项目，项目score为85.94141。
+
+生成的预测文件为work中的result.txt文件
+
+项目任务为识别包含中文文字的街景图片，准确识别图片中的文字
+
+本项目源于https://aistudio.baidu.com/aistudio/projectdetail/615795，在此基础上进行修改
+
+感谢开发者为开源社区做出的贡献
 
 ## 项目结构
-```
+```-|external-lib
 -|data
 -|work
 -README.MD
