@@ -13,7 +13,7 @@
 
 ## 项目结构
 ```
--|external-lib
+-|external-libraries
 -|data
 -|work
 -README.MD
