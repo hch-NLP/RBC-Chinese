@@ -1,5 +1,5 @@
 # AI-Studio-飞桨常规赛：中文场景文字识别 - 5月第1名方案
-AI-Studio 可以fork这个公开的版本  常规赛：中文场景文字识别 - 5月第1 URL：https://aistudio.baidu.com/aistudio/projectdetail/1911502?_=1622688767906
+AI-Studio 可以fork这个公开的版本  常规赛：中文场景文字识别 - 5月第1 2021-06-03 13:25:07 URL：https://aistudio.baidu.com/aistudio/projectdetail/1911502?_=1622688767906
 
 Github URL:https://github.com/hch-NLP/---5-1-
 ## 项目描述
