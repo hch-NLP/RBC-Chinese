@@ -15,7 +15,6 @@ Github URL:https://github.com/hch-NLP/---5-1-
 
 ## 项目结构
 ```
--|external-libraries
 -|data
 -|work
 -README.MD
