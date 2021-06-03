@@ -1,5 +1,6 @@
 # AI-Studio-飞桨常规赛：中文场景文字识别 - 5月第1名方案
-AI-Studio URL:https://aistudio.baidu.com/aistudio/projectdetail/1911502?_=1622688767906
+AI-Studio 可以fork这个公开的版本  常规赛：中文场景文字识别 - 5月第1 URL：https://aistudio.baidu.com/aistudio/projectdetail/1911502?_=1622688767906
+
 Github URL:https://github.com/hch-NLP/---5-1-
 ## 项目描述
 本项目是参加飞桨常规赛：中文场景文字识别的项目，项目score为85.94141。
