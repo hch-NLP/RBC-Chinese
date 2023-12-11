@@ -11,7 +11,6 @@ Github URL:https://github.com/hch-NLP/RBC-Chinese
 
 本项目源于https://aistudio.baidu.com/aistudio/projectdetail/615795，在此基础上进行修改
 
-感谢开发者为开源社区做出的贡献
 
 ## 项目结构
 ```
